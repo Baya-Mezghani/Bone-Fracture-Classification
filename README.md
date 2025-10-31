@@ -43,7 +43,7 @@ According to the paper, this approach achieved **the highest classification accu
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone 
+git clone git@github.com:Baya-Mezghani/Bone-Fracture-Classification.git
 cd Bone-Fracture-Classification
 ```
 ---
