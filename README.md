@@ -7,7 +7,7 @@
 
 This project implements the **best approach** from the paper:
 
-> **"VGG-16, VGG-16 With Random Forest, ResNet50 With SVM, and EfficientNetB0 With XGBoost: Enhancing Bone Fracture Classification in X-Ray Using Deep Learning Models" (2024)**
+> **"VGG-16, VGG-16 With Random Forest, ResNet50 With SVM, and EfficientNetB0 With XGBoost: Enhancing Bone Fracture Classification in X-Ray Using Deep Learning Models" (2025)**
 
 Instead of reproducing all experiments and comparisons, this work focuses exclusively on applying the **final and optimal model** identified by the authors, a **VGG16 feature extractor combined with a Random Forest classifier**.  
 According to the paper, this approach achieved **the highest classification accuracy (~95%)** on bone fracture X-ray images.
